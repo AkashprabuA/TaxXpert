@@ -100,7 +100,7 @@ text
 ### Steps
 
 **1. Clone Repository**
-```bash
+bash
 git clone https://github.com/AkashprabuA/TaxXpert.git
 2. Move to htdocs
 
@@ -213,3 +213,5 @@ Duckett, Jon, "PHP & MySQL: Server-Side Web Development", 1st Edition, Wiley Ind
 Nixon, Robin, "Learning PHP, MySQL & JavaScript with jQuery, CSS & HTML5", 5th Edition, O'Reilly Media, 2015.
 
 <p align="center"> Made with ❤️ by Akash Prabu A </p> ```
+
+
